@@ -1,3 +1,6 @@
-#Express Server:BMI Calculator
+# Express Server:BMI Calculator
 
-Getting started with web development using Express Server
+
+Getting started with Web Development using Express Server. 
+
+Consists of Normal Calculator for addition and BMI calculator.  
